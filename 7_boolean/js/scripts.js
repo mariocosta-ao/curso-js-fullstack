@@ -1,4 +1,5 @@
 var verdadeiro = true;
+let $nome;
 
 console.log(verdadeiro);
 console.log(typeof verdadeiro);
